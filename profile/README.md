@@ -9,7 +9,7 @@
 ![CSS]
 ![JS]
 ![TS]<br>
-![svelte]<br>
+![svelte]
 ![tailwind]
 
 ## App
