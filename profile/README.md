@@ -40,34 +40,6 @@
     
 <br>
 
-# 현재 진행 중인 프로젝트 입니다.
-- Speedat
-    - 교내 자율동아리 SPAM에서 개발한 서울로봇고등학교 교내 커뮤니티 스피닷입니다.
-    - [Web](https://www.speedat.site/)
-    - [Front-Repo](https://github.com/SRHS-SPAM/SPAM-School-Page)
-    - [Back-Repo](https://github.com/SRHS-SPAM/speedat-back)
-- rogo wiki
-    - 교내 자율동아리 SPAM에서 개발 중인 로봇고 위키 로고위키입니다.
-    - [Front-Repo](https://github.com/SRHS-SPAM/rogowiki-front)
-- Introduce-club
-    - 교내 자율동아리 SPAM에서 개발 중인 서울로봇고등학교의 동아리를 소개하는 사이트입니다.
-    - [Front-Repo](https://github.com/SRHS-SPAM/introduce-school-club)
-- PamTion
-    - 교내 자율동아리 SPAM에서 개발 중인 프로젝트 관리 앱 PamTion입니다.(sPam noTion)
-    - [mobile-Repo](https://github.com/SRHS-SPAM/PamTion-Mobile)
-    - [pc-Repo](https://github.com/SRHS-SPAM/PamTion-Pc)
-- Curriculm
-    - 교내 자율동아리 SPAM에서 개발 중인 동아리 내부 공부 사이트 입니다.
-    - [front-Repo](https://github.com/SRHS-SPAM/Curriculum)
-
-<br>
-
-# 📫 동아리 가입이나 정보를 얻고싶으시면 이 곳으로 연락주세요!
-- [Web](http://srh-spam.com)
-- [Instargram](https://www.instagram.com/spam._srh/)
-- [부장 인스타그램](https://www.instagram.com/m.s.g2324/)
-- [차장 인스타그램](https://www.instagram.com/_thirdfortune/) <- 연락 더 잘됨
-
 <!-- Markdown link & img dfn's -->
 
 [HTML]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
