@@ -81,7 +81,7 @@
 
 [terraform]: https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white
 
-[aws]: https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+[aws]: https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white
 [vercel]: https://img.shields.io/badge/vercel-181717?style=for-the-badge&logo=vercel&logoColor=white
 
 [git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
