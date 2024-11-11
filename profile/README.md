@@ -18,7 +18,6 @@
 ![dart]
 ![flutter]<br>
 ![kotlin]
-![ad]
 ![cp]
 
 ## Server
